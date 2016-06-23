@@ -1,17 +1,23 @@
-.body {
-	background-color: #ffffff;
+p h3 h2 h1 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	margin: 0px;
+}
+
+.body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #ffffff;
+	margin-top: -10px;
 }
 
 .wrapper {
 	background-color: #f1f1f1;
-	margin: 0px;
+	margin: -10px;
 }
 
 .navbar {
 	background-color: #d7d7d7;
 	width: 100%;
-	height: 100px;
+	height: 40px;
 	margin: 0px;
 
 }
@@ -20,7 +26,7 @@
 	background-color: #c8c8c8;
 	width: 980px;
 	height: 480px;
-	margin: 0px;
+	margin: auto;
 
 }
 
@@ -28,6 +34,6 @@
 	background-color: #ffffff;
 	width: 980px;
 	height: 100%;  
-	margin: 0px;
+	margin: auto;
 
 }
