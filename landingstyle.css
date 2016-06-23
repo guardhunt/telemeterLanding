@@ -1,0 +1,30 @@
+h3;
+    text-align: center:
+}
+
+.body {
+    background-color: #ffffff;
+}
+
+.wrapper {
+    background-color: #f1f1f1;
+}
+
+.navbar {
+    background-color: #d7d7d7;
+    width: 100%
+    heigth: 100px;
+    
+}
+    
+.masthead {
+    background-color: #c8c8c8;
+    width: 980px;
+    height: 480px;
+}
+
+.content {
+    background-color: #ffffff;
+    width: 980px
+    height: 100%;  
+}
